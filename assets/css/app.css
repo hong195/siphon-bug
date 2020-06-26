@@ -1,0 +1,10 @@
+body {
+    background-color: #fff;
+    font-family: Liberation Sans;
+    padding: 0;
+    margin: 0;
+}
+
+body > .el-container {
+    margin-bottom: 40px;
+}
